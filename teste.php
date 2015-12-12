@@ -1,1 +1,2 @@
-teste
+<?php echo "teste"; ?>
+
